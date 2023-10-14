@@ -49,7 +49,7 @@
     "@nivo/legends": "^0.80.0",
     "@nivo/tooltip": "^0.80.0",
     "@sentry/react": "^6.13.3",
-    "@sentry/tracing": "^6.13.3",
+    "@sentry/tracing": "^7.70.0",
     "clean-css": "^4.2.1",
     "core-js": "^3.9.1",
     "d3-array": "~2.3.3",
