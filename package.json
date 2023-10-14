@@ -75,7 +75,7 @@
     "react-select": "^3.1.0",
     "react-simple-star-rating": "^4.0.0",
     "react-sortablejs": "^6.0.0",
-    "react-tooltip": "^4.2.21",
+    "react-tooltip": "^5.21.4",
     "react-youtube": "^7.12.0",
     "socket.io-client": "^4.1.2",
     "sortablejs": "^1.12.0",
