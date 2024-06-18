@@ -4,3 +4,4 @@ sphinx_rtd_theme==0.5.1
 docutils==0.17.1
 sphinx-click==4.3.0
 -r ../requirements.txt
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
