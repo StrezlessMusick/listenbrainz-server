@@ -33,7 +33,7 @@
   },
   "homepage": "https://listenbrainz.org",
   "dependencies": {
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "^7.26.10",
     "@braintree/sanitize-url": "^6.0.0",
     "@cospired/i18n-iso-languages": "^3.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
@@ -72,7 +72,7 @@
     "react-draggable": "^4.4.4",
     "react-loader-spinner": "^3.1.14",
     "react-responsive": "^8.1.0",
-    "react-select": "^3.1.0",
+    "react-select": "^4.0.0",
     "react-simple-star-rating": "^4.0.0",
     "react-sortablejs": "^6.0.0",
     "react-tooltip": "^4.2.21",
